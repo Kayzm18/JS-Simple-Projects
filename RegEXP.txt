@@ -1,0 +1,8 @@
+[a]	Matches the character between the brackets
+[^a]	Matches all characters NOT between the brackets
+[abc]	Matches all characters between the brackets
+[^abc]	Matches all characters NOT between the brackets
+[a-z]	Matches all characters in the range from a to z
+[^a-z]	Matches all characters NOT in the range from a to z
+[0-9]	Matches all characters in the range from 0 to 9
+[^0-9]	Matches all characters NOT in the range from 0 to 9
